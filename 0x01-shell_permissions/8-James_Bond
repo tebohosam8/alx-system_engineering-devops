@@ -1,0 +1,2 @@
+#!/bin/bash
+shmod 007 hello
