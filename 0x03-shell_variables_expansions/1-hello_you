@@ -1,2 +1,2 @@
-#!/binlbash
+#!/bin/bash
 echo "Hello $user"
